@@ -418,7 +418,7 @@ This project intends to use machine learning to detect distracted driving in rea
           A 3-minute recorded proposal summary using Microsoft PowerPoint, Google Slides, or equivalent. The video must be uploaded as a YouTube Unlisted video.
         </p>
         <Link href="#" className="text-primary hover:underline">
-          Attach YouTube Video Link Here
+          https://youtu.be/r_rH_FhN3u8
         </Link>
       </div>
 
