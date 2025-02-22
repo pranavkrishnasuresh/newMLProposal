@@ -415,7 +415,7 @@ This project intends to use machine learning to detect distracted driving in rea
       <div>
         <h3 className="text-xl font-semibold mb-3">Video Presentation</h3>
         <p className="text-muted-foreground">
-          Watch our youtube video here!
+          Click here!
         </p>
         <Link href="#" className="text-primary hover:underline">
           https://youtu.be/r_rH_FhN3u8
